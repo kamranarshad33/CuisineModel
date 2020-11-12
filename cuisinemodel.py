@@ -15,6 +15,8 @@ drive.mount('/data/', force_remount= True)
 data_dir= '/data/My Drive/EMSE 6574 Final Project - Shared (1)/Data'
 !ls '/data/My Drive/EMSE 6574 Final Project - Shared (1)/Data'
 
+
+
 drive.mount('/data/', force_remount = True)
 data_dir = '/data/My Drive/EMSE 6574/data'
 !ls "{data_dir}" #load the dataset
